@@ -6,9 +6,7 @@ This repository includes:
 
 raw_data: The raw data that was extracted through DistillerSR and downloaded.
 
-processed_data: The data after cleaning and processing, ready to be submitted to mrbrt.
-
-final_results: The final results, post-mrbrt.
+cleaned_data: The data after cleaning and processing, ready to be submitted to mrbrt.
 
 cleaning_code: The code used to clean the data.
 
